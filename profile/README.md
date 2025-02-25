@@ -32,27 +32,6 @@ We emphasize model transparency, interpretability, and regulatory considerations
 - **LLM-Assisted Radiation Oncology Documentation**: Deploying large language models to streamline treatment documentation and workflow optimization.
 - **Multi-Institutional AI Validation**: Assessing model generalizability across different hospitals and clinical settings.
 
-## Getting Started
-
-### Prerequisites
-To set up this repository locally, ensure you have:
-- Python 3.8+
-- PyTorch / TensorFlow
-- MONAI, nnUNet, or other relevant medical imaging frameworks
-- DICOM processing tools (e.g., pydicom, SimpleITK)
-
-### Installation
-```bash
-git clone https://github.com/McBethLab/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-```
-
-### Usage
-1. Load datasets following the `data/README.md` instructions.
-2. Train or evaluate models using provided scripts.
-3. Analyze results and visualize outputs with built-in tools.
-
 ## Contributing
 We welcome contributions from researchers, students, and industry collaborators! To contribute:
 - Fork the repository and create a feature branch.
